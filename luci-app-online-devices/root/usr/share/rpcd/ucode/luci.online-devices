@@ -1,0 +1,9 @@
+#!/usr/bin/ucode
+
+return {
+	get: function() {
+		return {
+			devices: []
+		};
+	}
+};
