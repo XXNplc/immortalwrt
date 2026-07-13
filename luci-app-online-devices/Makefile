@@ -23,7 +23,3 @@ endef
 
 LUCI_TITLE:=在线设备
 LUCI_PKGARCH:=all
-
-include $(TOPDIR)/feeds/luci/luci.mk
-
-# call BuildPackage - OpenWrt buildroot signature
